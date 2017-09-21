@@ -6,13 +6,14 @@
   </head>
   <body>
     <h1>INSCRIPTION</h1>
-    <form class="" action="" method="post">
+    <form class="" action="../controleur/index.php" method="post">
       <h3>Entrez votre pseudo :</h3>
       <input type="text" name="pseudo" value="" placeholder="pseudo"><br>
       <h3>Entrez votre pseudo :</h3>
       <input type="password" name="password" value="" placeholder="password"><br>
       <h3>Entrez votre email :</h3>
-      <input type="mail" name="mail" value="" placeholder="email">
+      <input type="mail" name="mail" value="" placeholder="email"><br>
+      <input type="submit" name="" value="ok">
     </form>
   </body>
 </html>
