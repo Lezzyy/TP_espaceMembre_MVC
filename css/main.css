@@ -94,9 +94,37 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+  background-color: #4F9E7F;
+}
 
+header{
+height: 100px;
+background-color:#4F9E7F;
+}
 
+#subscribe {
+  text-align: center;
+  line-height: 50px;
+}
+#subscribe h3{
+  color: white;
+  font-size: large;
+}
 
+p{
+  color:#DFBE6F;
+  font-size: x-large;
+}
+
+.membre h1{
+  color:white;
+  margin-top: 0;
+}
+
+.subscribe h1{
+  color: #ffffff;
+}
 
 
 
